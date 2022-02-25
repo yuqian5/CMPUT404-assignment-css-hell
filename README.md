@@ -27,5 +27,11 @@ Code is licensed under the Apache 2.0 license.
 * renamed image uri
 * For The Adventures of Sherlock Holmes, removed number on chapter table
 
+https://heropatterns.com/ was used for css background
+
+# Part 2
+
+https://heropatterns.com/ was used for css background
+
 
 
